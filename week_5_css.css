@@ -1,0 +1,21 @@
+#anna_mccarthy{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 35px;
+	padding: 20px;
+}
+
+#title{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	padding: 20px;
+}
+
+#location{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.header{
+	background-color: #FFFFE0;
+}
