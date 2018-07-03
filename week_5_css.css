@@ -14,8 +14,35 @@
 	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
 	padding: 20px;
+	padding-bottom: 25px;
 }
 
 .header{
 	background-color: #FFFFE0;
+}
+
+
+.body{
+	background-color: #E6E6FA;
+}
+
+#post_1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 35px;
+	padding: 20px;
+	text-align: right;
+} 
+
+#post_2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	padding: 20px;
+	text-align: right;
+}
+
+#post_3{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	padding: 20px;
+	text-align: right;
 }
